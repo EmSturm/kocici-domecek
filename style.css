@@ -58,6 +58,10 @@ h1 {
 .kniha {
   width: 120px;
   height: 140px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(-50%, -50%);
   /*
 		kočka si ráda čte svoje knihy v klidu,
 		proto sedí v levém horním rohu domečku,
