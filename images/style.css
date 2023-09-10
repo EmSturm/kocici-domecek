@@ -1,0 +1,52 @@
+
+body {
+    position: relative; 
+    border: 5px solid brown;
+    width: 700px;
+    height: 400px;
+    left: 100px;
+    top: 100px;
+}
+
+
+.stred {
+    
+    border: 5px solid black;
+    
+    
+}
+
+.dopis {
+    position: absolute;
+    bottom: 0;
+    width: 90px;
+}
+
+.motyl {
+    position: absolute;
+    width: 100px;
+    top: 200px;
+    left: 350px;
+
+}
+
+.kniha {
+    position: absolute;
+    width: 100px;
+    top: calc(-140px / 2);
+  left: calc(-120px / 2);
+}
+
+.sluchatka {
+    position: absolute;
+    width: 100px;
+    top: 30px;
+    right: 30px;
+}
+
+.spanek {
+    position: absolute;
+    width: 100px;
+    right: 0;
+    bottom: 0;
+}
